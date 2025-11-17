@@ -1,3 +1,5 @@
+## NAME : JANANI S
+## REG NO : 212223230086
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
